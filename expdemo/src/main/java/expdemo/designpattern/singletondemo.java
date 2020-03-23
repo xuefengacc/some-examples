@@ -1,4 +1,4 @@
-package expdemo.designpattern.singleton;
+package expdemo.designpattern;
 
 public class singletondemo {
     
